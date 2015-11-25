@@ -32,4 +32,5 @@ class FeatureContext extends RawPropeopleContext {
     self::setDrupalVariables(array('user_register', USER_REGISTER_VISITORS));
   }
 
+  // Test commit.
 }
